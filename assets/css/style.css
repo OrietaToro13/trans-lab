@@ -6,9 +6,23 @@ body{
 }
 img{
     display: block;
-    margin: 73px;
-    width: 40%;
+    margin: 80px;
+    width: 35%;
 }
 h1{
 	color: #f6a800;
+	margin: 30px;
+	height: 0;
+	line-height: 0;
+}
+#email{
+	width: 200px;
+	height: 40px;
+	line-height: 0;
+}
+#passw{
+	width: 200px;
+	height: 40px;
+	line-height: 0;
+
 }
