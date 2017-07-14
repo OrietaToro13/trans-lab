@@ -6,3 +6,10 @@ body{
 .nav-wrapper a{
 	background-color: #3e3f41;
 }
+#btn{
+	background-color: #f6a800;
+}
+li{
+	background-color: #f6a800;
+	padding: auto;
+}
