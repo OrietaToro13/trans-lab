@@ -40,3 +40,10 @@ p {
 .dropdown_resp{
 	display:none;
 }
+.btn{
+	width: 290px;
+	height: 40px;
+	background-color: #f6a800;
+	margin: auto;
+	text-decoration: none;
+}

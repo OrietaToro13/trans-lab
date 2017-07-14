@@ -4,6 +4,9 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.logo{
+	text-align: center;
+}
 img{
     display: block;
     margin: 80px;
@@ -15,14 +18,24 @@ h1{
 	height: 0;
 	line-height: 0;
 }
-#email{
+.email{
+	width: 200px;
+	height: 40px;
+	
+}
+.passw{
 	width: 200px;
 	height: 40px;
 	line-height: 0;
 }
-#passw{
+.btn{
 	width: 200px;
 	height: 40px;
-	line-height: 0;
+	background-color: #f6a800;
+	margin: auto;
+	text-decoration: none;
+}
+p{
+	color: #ffffff;
 }
 
